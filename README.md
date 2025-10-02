@@ -62,8 +62,7 @@
 ---
 
 ## 🏅 Achievements & Certifications  
-- 🏆 **1st Prize** – Google Winter of Code (GWOC’24).  
-- 📈 **ACM ICPC Regional 2023** – Ranked 1438.  
+- 🏆 **1st Prize** – Google Winter of Code (GWOC’24).
 - 📜 Certifications:  
   - SQL Bootcamp – AI for Techies  
   - ReactJS Development – PW Skills  
