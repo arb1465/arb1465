@@ -70,14 +70,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Aasutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=arb1465&show_icons=true&theme=dark)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arb1465&layout=compact&theme=dark)  
-
----
-
 ## 🌐 Connect With Me  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://portfolio-arb.vercel.app)  
