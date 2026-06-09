@@ -4,12 +4,15 @@
 
 ---
 
-## 💡 About Me  
-- 🎓 B.Tech in Computer Science & Engineering @ **SVNIT Surat (2022–2026)**  
-- 💻 Skilled in **Full-Stack Web Development** (React.js, Node.js, Express.js, MongoDB, REST APIs).  
-- 🏆 Secured **1st Prize** at *Google Winter of Code (GWOC’24)* for building an interactive, responsive website.  
-- 🎨 Passionate designer – **Core Designer at ACM Student Club** and **Design Manager at MINDBEND**, led 25+ projects/events.  
-- 🌱 Exploring **AI integration in Web Apps** (Hugging Face APIs, Cloudinary, JWT).  
+## 💡 About Me
+
+* 🎓 B.Tech in Computer Science & Engineering @ **SVNIT Surat (2022–2026)**
+* 📱 Skilled in **Full-Stack and Mobile Application Development** using React.js, React Native, Node.js, Express.js, MongoDB, and REST APIs.
+* 💼 Completed a **Frontend Developer Internship at AI Novaris**, where I developed an AI-powered travel companion using React Native, Google Maps, and OpenAI APIs.
+* 🏆 Secured **1st Prize** at *Google Winter of Code (GWOC’24)* for building an interactive and responsive web application.
+* 🎨 Former **Core Designer at ACM SVNIT** and **Design Manager at MINDBEND**, contributing to multiple technical events and projects.
+* 🌱 Exploring **AI-powered applications, workflow automation (n8n), and scalable software systems**.
+
 
 ---
 
@@ -21,17 +24,23 @@
 ![Python](https://img.shields.io/badge/Python-yellow)  
 ![SQL](https://img.shields.io/badge/SQL-lightgrey)  
 
+
 **Frontend Development**  
 ![HTML5](https://img.shields.io/badge/HTML5-orange)  
 ![CSS3](https://img.shields.io/badge/CSS3-blue)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-teal)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)  
 ![React.js](https://img.shields.io/badge/React.js-61DAFB)  
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020)
 
 **Backend Development**  
 ![Node.js](https://img.shields.io/badge/Node.js-green)  
 ![Express.js](https://img.shields.io/badge/Express.js-black)  
 ![REST API](https://img.shields.io/badge/REST-API-purple)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991)
+![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4)
+![n8n](https://img.shields.io/badge/n8n-EA4B71)
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-blue)  
@@ -54,10 +63,13 @@
 - Integrated **JWT authentication** & **Cloudinary for image storage**.  
 - Added **AI-based image generation** using Hugging Face API.  
 
-### 🔹 [KOE - The Kafe](https://koe-the-cafe-winter-wiz.onrender.com/)  
-*HTML | Tailwind CSS | JavaScript*  
-- Created responsive website with dynamic carousel & bakery page.  
-- Won **1st Prize** at **GWOC’24** among 20+ teams.  
+### 🔹 [Bindaas – AI Travel Companion](https://drive.google.com/file/d/1fW95lQUVdFIC8VgYfYyWuudr8OeiaJfY/view?usp=sharing)
+*React Native (Expo) | TypeScript | OpenAI API | Google Maps API | YouTube Data API | NativeWind*
+
+- Developed an AI-powered travel planning application for discovering nearby places, generating personalized itineraries and navigating efficiently.
+- Integrated **OpenAI, Google Places, Maps and Directions APIs** to provide AI-generated travel insights and real-time navigation.
+- Added multimedia exploration and audio guidance using YouTube Data API and Expo Speech to enhance user experience.
+
 
 ---
 
